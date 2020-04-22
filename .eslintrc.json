@@ -5,6 +5,7 @@
   "rules": {
     "prettier/prettier": ["error", {
       "endOfLine":"auto"
-    }]
+    }],
+    "react/jsx-uses-var": 2
   }
 }
