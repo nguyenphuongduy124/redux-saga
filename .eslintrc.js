@@ -22,7 +22,7 @@ module.exports = {
     "react/forbid-prop-types": 0,
     "react/require-default-props": 0,
     "react/jsx-filename-extension": 0,
-    
+    "react/jsx-max-props-per-line": [2, { maximum: 1 }],
     "prettier/prettier": ["error"]
   },
   plugins: ["prettier"]
