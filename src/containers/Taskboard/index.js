@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { Button, Grid, withStyles } from '@material-ui/core';
-import { Add } from "@material-ui/icons";
+import { Add } from '@material-ui/icons';
 import PropTypes from 'prop-types';
 import TaskForm from '../../components/TaskForm';
 import TaskList from '../../components/TaskList';
